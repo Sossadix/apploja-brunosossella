@@ -22,7 +22,7 @@ Aplicativo mobile desenvolvido com **React Native** e **Expo Router**, como ativ
 ---
 
 ## 📁 Estrutura de Pastas
-apploja-rog-main/
+apploja-brunosossella/
 ├── app/                          # Rotas e telas principais do app (usando Expo Router)
 │   ├── categories/               # Tela de listagem de categorias
 │   │   └── index.tsx
