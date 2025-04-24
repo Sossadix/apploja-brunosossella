@@ -1,0 +1,14 @@
+{
+  "extends": "expo/tsconfig.base",
+  "target": "es2015",
+  "lib": ["es2015"],
+  "compilerOptions": {
+    "strict": true,
+    "target": "es2015",
+    "lib": ["es2015"],
+    "paths": {
+      "@/*": ["./*"]
+    }
+  },
+  "include": ["**/*.ts", "**/*.tsx", ".expo/types/**/*.ts", "expo-env.d.ts"]
+}
